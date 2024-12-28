@@ -1,0 +1,2 @@
+This is a git session
+explaing the basics of git
