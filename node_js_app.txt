@@ -1,1 +1,2 @@
 This is a new nodejs application
+Testing the git diff command
